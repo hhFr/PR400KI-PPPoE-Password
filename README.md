@@ -29,6 +29,7 @@ VALUE=
 
 
 50 61 73 73 77 72 64 49 53 31 32 33 34	← ASCII 文字コード
+
 P  a  s  s  w  r  d  I  S  1  2  3  4	← ASCII 文字に変換
 
 PasswrdIS1234	← パスワード`
